@@ -82,12 +82,11 @@
                 <!-- The item for any projects -->
 
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle"
+                    <a class="nav-link dropdown-toggle multilevel-first"
                        href="#"
                        id="navbarDropdownProjects"
                        role="button"
                        data-bs-toggle="dropdown"
-                       data-bs-auto-close="true"
                        aria-haspopup="true"
                        aria-expanded="false">
                         Projects
@@ -103,12 +102,11 @@
                         <!-- The item for any data science projects -->
 
                         <li class="nav-item dropend">
-                            <a class="nav-link dropdown-toggle"
+                            <a class="nav-link dropdown-toggle second-level"
                                 href="#"
                                 id="navbarDropdownDataSci"
                                 role="button"
                                 data-bs-toggle="dropdown"
-                                data-bs-auto-close="true"
                                 aria-haspopup="true"
                                 aria-expanded="false">
                                 Data Science
@@ -126,19 +124,18 @@
                          <!-- The iterm for all "Other" projects -->
 
                         <li class="nav-item dropend">
-                            <a class="nav-link dropdown-toggle"
+                            <a class="nav-link dropdown-toggle second-level"
                                 href="#"
                                 id="navbarDropdownProjectsOther"
                                 role="button"
                                 data-bs-toggle="dropdown"
-                                data-bs-auto-close="true"
                                 aria-haspopup="true"
                                 aria-expanded="false">
                                 Other
                             </a>
                         <!-- The list of all "other" projects -->
 
-                            <ul class="dropdown-menu" aria-labelledby="navbarDropdownDataSci">
+                            <ul class="dropdown-menu" aria-labelledby="navbarDropdownProjectsOther">
                                 <a class="dropdown-item" href="#">Placeholder</a>
                             </ul>
                         </li>
@@ -185,20 +182,30 @@
     <!-- All javascript functions and code -->
 
     <script>
-            // This bit is for the "Last Updated" piece in the footer
+
+        // This bit is for the "Last Updated" piece in the footer
             var x = new Date(document.lastModified);
             document.getElementById("updated").innerHTML = "<span class=\"text-muted text-center\">Sam Cohen, last updated "+ x.toLocaleDateString() + "</span>";
 
-
             // This piece allows for the multi-level dropdown and comes from: https://www.codeply.com/p/rhCuZhEUrk
-            let dropdowns = document.querySelectorAll('.dropdown-toggle')
+            let dropdowns = document.querySelectorAll('.dropdown-toggle.second-level');
+
             dropdowns.forEach((dd)=>{
                 dd.addEventListener('click', function (e) {
-                    var el = this.nextElementSibling
+                    var el = this.nextElementSibling;
                     el.style.display = el.style.display==='block'?'none':'block'
-                })
-            })
-
+                });
+                dd.removeEventListener('click')
+            });
+            // let multilevelhead = document.querySelectorAll('.dropdown-toggle.multilevel-first');
+            // multilevelhead.forEach((dd)=> {
+            //     dd.addEventListener('click', function (e) {
+            //         if (e.target.className = '.second-level') {
+            //             e.style.display = 'block'
+            //         }
+            //     });
+            //     dd.removeEventListener('click')
+            // });
     </script>
 
     <!-- Load in Bootstrap Bundle with Popper -->
