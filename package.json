@@ -1,0 +1,25 @@
+{
+  "name": "sacohen.github.io",
+  "version": "1.0.0",
+  "dependencies": {
+    "gulp-file-include": "^2.3.0"
+  },
+  "description": "Sam Cohen's personal website",
+  "main": "index.js",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sacohen11/sacohen11.github.io.git"
+  },
+  "author": "Sam Cohen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sacohen11/sacohen11.github.io/issues"
+  },
+  "homepage": "https://github.com/sacohen11/sacohen11.github.io#readme"
+}
