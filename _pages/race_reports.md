@@ -1,6 +1,13 @@
 ---
 layout: page
 title: Race Reports
+dropdown: true
+children: 
+    - title: 2023
+      permalink: /racereports2023/
+    - title: divider
+    - title: 2022
+    - permalink: /racereports2022/
 ---
 
 <!-- Text stuff -->

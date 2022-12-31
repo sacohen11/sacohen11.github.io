@@ -4,7 +4,7 @@ first_name: Sam
 middle_name: R.
 last_name: Cohen
 subtitle:
-email: sacohen11s@gmail.com
+email: sacohen11@gmail.com
 description: My own site designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -34,12 +34,14 @@ linkedin_url: https://www.linkedin.com/in/sam-cohen-1b925b114/
 pinterest_url:
 slack_url:
 twitter_url: https://twitter.com/SammyCoRuns
+strava_url: https://www.strava.com/athletes/95394598
 
 # build settings
 markdown: kramdown
 
 sass:
-  style: compressed
+  # style: compressed
+  sass_dir: _/sass
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -80,8 +82,8 @@ keep_files:
   # - jemoji
 
 # Sitemap settings
-defaults:
-  - scope:
-      path: "assets/**/*.*"
-    values:
-      sitemap: false
+# defaults:
+#   - scope:
+#       path: "assets/**/*.*"
+#     values:
+#       sitemap: false
