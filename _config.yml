@@ -3,31 +3,33 @@ title: SammyCoRuns
 first_name: Sam
 middle_name: R.
 last_name: Cohen
-subtitle:
+subtitle: Running, tennis, and curious experiments with AI
 email: sacohen11@gmail.com
-description: My own site designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+description: >
+  Personal site for Sam Cohen — runner, tennis player, and AI enthusiast.
+  Notes on training, races, and the tools that catch my attention.
+baseurl: ""
+url: "https://sacohen11.github.io"
 author:
-street_address: 
-city: 
-state: 
-zip_code: 
-country: 
-phone: 
+street_address:
+city:
+state:
+zip_code:
+country:
+phone:
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://html5up.net/massively">HTML5 UP's Massively</a> theme, integrated by <a href="https://github.com/andrewbanchich/massively-jekyll-theme">Andrew Banchich</a>.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and a customized <a href="https://html5up.net/massively" target="_blank">Massively</a> theme.
+  Hosted on <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
-last_updated: true # set to true if you want to display last updated in the footer
-impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
+last_updated: true
+impressum_path:
 formspree_code: f/mjvdbpkq
 
 # social settings
 500px_url:
 facebook_url:
 github_url: https://github.com/sacohen11
-gitlab_url: 
+gitlab_url:
 googleplus_url:
 instagram_url: https://www.instagram.com/sammycoruns/
 linkedin_url: https://www.linkedin.com/in/sam-cohen-1b925b114/
@@ -53,7 +55,6 @@ footer_fixed: true
 # Dimensions
 max_width: 800px
 
-
 # Includes & excludes
 include: ['_pages']
 exclude:
@@ -68,18 +69,18 @@ keep_files:
 
 # Plug-ins
 # plugins:
-  # - jekyll-archives
-  # - jekyll-diagrams
-  # - jekyll-email-protect
-  # - jekyll-feed
-  # - jekyll-imagemagick
-  # - jekyll-minifier
-  # - jekyll-paginate-v2
-  # - jekyll/scholar
-  # - jekyll-sitemap
-  # - jekyll-link-attributes
-  # - jekyll-twitter-plugin
-  # - jemoji
+#   - jekyll-archives
+#   - jekyll-diagrams
+#   - jekyll-email-protect
+#   - jekyll-feed
+#   - jekyll-imagemagick
+#   - jekyll-minifier
+#   - jekyll-paginate-v2
+#   - jekyll/scholar
+#   - jekyll-sitemap
+#   - jekyll-link-attributes
+#   - jekyll-twitter-plugin
+#   - jemoji
 
 # Sitemap settings
 # defaults:
