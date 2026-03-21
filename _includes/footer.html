@@ -1,21 +1,23 @@
 		</div>
 
 		<!-- Footer -->
-		<footer id="footer" action="https://formspree.io/{{ site.formspree_code }}" method="POST">
+		<footer id="footer">
 				<section>
-						<form method="post" action="#">
+						<form method="post" action="https://formspree.io/{{ site.formspree_code }}">
 								<div class="field">
 									  <label for="name">Name</label>
-									  <input type="text" name="name" id="name" />
+									  <input type="text" name="name" id="name" required />
 								</div>
 								<div class="field">
 									  <label for="email">Email</label>
-									  <input type="text" name="_replyto" id="email" />
+									  <input type="email" name="email" id="email" required />
 								</div>
 								<div class="field">
 									  <label for="message">Message</label>
-									  <textarea name="message" id="message" rows="3"></textarea>
+									  <textarea name="message" id="message" rows="3" required></textarea>
 								</div>
+								<input type="hidden" name="_subject" value="New message from SammyCoRuns" />
+								<input type="hidden" name="_next" value="{{ site.url }}/" />
 								<ul class="actions">
 									  <li><input type="submit" value="Send Message" /></li>
 								</ul>
