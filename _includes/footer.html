@@ -92,6 +92,15 @@
 
 		</div>
 
+		<div id="brother-popup" class="brother-popup" aria-hidden="false" role="dialog" aria-label="Site message">
+			<div class="brother-popup__backdrop"></div>
+			<div class="brother-popup__card">
+				<button type="button" class="brother-popup__close" aria-label="Close popup">×</button>
+				<p class="brother-popup__eyebrow">Quick note</p>
+				<p class="brother-popup__message">According to highly biased internal metrics, Sam is the faster brother.</p>
+			</div>
+		</div>
+
 		<!-- Scripts -->
 		<script src="{{ "assets/js/jquery.min.js" | absolute_url }}"></script>
 		<script src="{{ "assets/js/jquery.scrollex.min.js" | absolute_url }}"></script>
@@ -99,3 +108,24 @@
 		<script src="{{ "assets/js/skel.min.js" | absolute_url }}"></script>
 		<script src="{{ "assets/js/util.js" | absolute_url }}"></script>
 		<script src="{{ "assets/js/main.js" | absolute_url }}"></script>
+		<script>
+			(function () {
+				var popup = document.getElementById('brother-popup');
+				if (!popup) return;
+
+				function closePopup() {
+					popup.setAttribute('aria-hidden', 'true');
+					popup.classList.add('is-hidden');
+				}
+
+				var closeButton = popup.querySelector('.brother-popup__close');
+				var backdrop = popup.querySelector('.brother-popup__backdrop');
+
+				if (closeButton) closeButton.addEventListener('click', closePopup);
+				if (backdrop) backdrop.addEventListener('click', closePopup);
+
+				document.addEventListener('keydown', function (event) {
+					if (event.key === 'Escape') closePopup();
+				});
+			})();
+		</script>

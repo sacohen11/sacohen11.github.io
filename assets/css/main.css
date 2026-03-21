@@ -4634,3 +4634,85 @@ body {
 		border-radius: 0;
 	}
 }
+
+
+/* Brother popup */
+
+	.brother-popup {
+		position: fixed;
+		inset: 0;
+		z-index: 10000;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		padding: 1.5rem;
+	}
+
+		.brother-popup.is-hidden {
+			display: none;
+		}
+
+		.brother-popup__backdrop {
+			position: absolute;
+			inset: 0;
+			background: rgba(0, 0, 0, 0.6);
+		}
+
+		.brother-popup__card {
+			position: relative;
+			max-width: 32rem;
+			width: min(100%, 32rem);
+			background: #ffffff;
+			color: #212931;
+			padding: 2.25rem 1.5rem 1.5rem;
+			border-radius: 0.5rem;
+			box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.25);
+			text-align: center;
+			z-index: 1;
+		}
+
+		.brother-popup__close {
+			position: absolute;
+			top: 0.6rem;
+			right: 0.75rem;
+			border: 0;
+			background: transparent;
+			color: #212931;
+			font-size: 2rem;
+			line-height: 1;
+			cursor: pointer;
+			opacity: 0.7;
+		}
+
+		.brother-popup__close:hover {
+			opacity: 1;
+		}
+
+		.brother-popup__eyebrow {
+			font-family: "Source Sans Pro", Helvetica, sans-serif;
+			text-transform: uppercase;
+			letter-spacing: 0.12rem;
+			font-size: 0.8rem;
+			margin-bottom: 0.75rem;
+			color: #717981;
+		}
+
+		.brother-popup__message {
+			font-size: 1.15rem;
+			line-height: 1.6;
+			margin: 0;
+		}
+
+		@media screen and (max-width: 480px) {
+			.brother-popup {
+				padding: 1rem;
+			}
+
+			.brother-popup__card {
+				padding: 2rem 1rem 1.25rem;
+			}
+
+			.brother-popup__message {
+				font-size: 1rem;
+			}
+		}
