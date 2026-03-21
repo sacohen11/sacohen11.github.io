@@ -5,11 +5,25 @@ description: "A messy buildup, a brutal opening stretch, and a strong finish in 
 image: assets/images/posts/utmb/chamonix-start-crowd.jpg
 ---
 
+<div class="story-kicker">UTMB 2025 · Chamonix, France</div>
+
 UTMB was the first race in a long time where I showed up with real doubt.
 
 I knew I was not in the best shape of my life. Travel stress, sickness, shin issues, and a bunch of nutrition and hydration mistakes had already made the buildup far from ideal. Even so, I still thought I could put together a solid race.
 
 Instead, I got punched in the mouth almost immediately.
+
+<div class="story-stats">
+  <div><span>Finish</span><strong>33:36:57</strong></div>
+  <div><span>Theme</span><strong>Bad buildup, good salvage job</strong></div>
+  <div><span>Low point</span><strong>Stomach disaster before Courmayeur</strong></div>
+  <div><span>Lesson</span><strong>Never trust mystery nootropics gels</strong></div>
+</div>
+
+> “I thought I was showing up a little compromised. I did not expect to be in survival mode almost immediately.”
+
+
+<hr class="story-divider" />
 
 ## Training
 
@@ -47,6 +61,8 @@ After the 50K, my shin hurt again badly enough that I was sure I had a stress fr
 
 Two weeks before the race, I did a 20-miler with 6,000 feet of vert at night to practice for the dark sections. I felt awful afterward, slept badly, and then got hit again right before a three-day backpacking trip. Feverish, achy, unable to eat. Later we found out everyone had drunk bad water. It became an involuntary taper, and I spent the final stretch just hoping I would feel remotely normal by race day.
 
+<hr class="story-divider" />
+
 ## Race week
 
 I got to Chamonix on Wednesday morning after taking a train from Barcelona to Lyon on Tuesday and then an early bus from Lyon to Chamonix on Wednesday. On that bus I met Sebastian Chiu, another American running UTMB, and we ended up talking for hours.
@@ -63,6 +79,8 @@ On race day I got into Chamonix around 1 p.m. for the 6 p.m. start, dropped my b
 Will had warned me to get to the start line early because the field is massive. I got there around 4:30 and was already deeper in the crowd than I expected. About 30 minutes before the gun, I took an SIS nootropics gel.
 
 Then _Conquest of Paradise_ started playing, the whole start corral got goosebumps, and we were off.
+
+<hr class="story-divider" />
 
 ## Race start
 
@@ -86,6 +104,8 @@ By Saint-Gervais, I was already hiding in the bathroom trying to regroup and tex
 The next section is a blur. By the time I reached Les Contamines, I had thrown up everything, including lunch. I was well behind my goal split and the race already felt sideways. Somewhere in the runnable section from Saint-Gervais to Les Contamines, more than 300 people passed me.
 
 Not exactly the plan.
+
+<hr class="story-divider" />
 
 ## To Courmayeur
 
@@ -113,6 +133,8 @@ At Lac Combal I spent way too long sitting around, which also became a theme. UT
 
 By the time the sun came up and I was descending toward Courmayeur, I knew I needed a real fix, not just another attempt at gutting it out.
 
+<hr class="story-divider" />
+
 ## Courmayeur
 
 I got into Courmayeur, found Will, sat down, and explained what had been happening.
@@ -129,6 +151,8 @@ The bad runs. The weird dehydration. The stomach problems. The vomiting. The ter
 So we threw the rest of them away immediately.
 
 I stayed in Courmayeur for close to 45 minutes, which is a ridiculous amount of time, but I left in much better shape. My stomach had settled, I got in some soup and rice, and for the first time all race I felt like there was at least a chance I could work my way back into it.
+
+<hr class="story-divider" />
 
 ## To the finish
 
@@ -169,6 +193,8 @@ By Vallorcine it was around midnight and I thought I only had three or four hour
 
 That did not exactly inspire joy.
 
+<div class="pull-quote">I wasn’t interested in seeing a second dawn if I could help it.</div>
+
 But it did flip a switch. I decided I was not spending all night out there if I could help it.
 
 I linked up for parts of the final climb with a French runner named Alexandre, moved well through the woods, and reached La Flégère with a shot at getting under 34 hours. From there it was about 4.5 miles back to Chamonix.
@@ -193,6 +219,8 @@ Not the time goal I came for, but after how the race started, I was proud of it.
 Afterward I shivered through the finish area, collected the finisher vest, and then got the news that there was a problem with the Airbnb lockbox and we could not get inside. So naturally, we ended up sleeping on the ground outside the Airbnb door.
 
 Completely ridiculous. Also completely fine. I was tired enough that I slept until 11 a.m. with no problem.
+
+<hr class="story-divider" />
 
 ## Takeaways
 
