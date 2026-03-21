@@ -13,13 +13,6 @@ I knew I was not in the best shape of my life. Travel stress, sickness, shin iss
 
 Instead, I got punched in the mouth almost immediately.
 
-<div class="story-stats">
-  <div><span>Finish</span><strong>33:36:57</strong></div>
-  <div><span>Theme</span><strong>Bad buildup, good salvage job</strong></div>
-  <div><span>Low point</span><strong>Stomach disaster before Courmayeur</strong></div>
-  <div><span>Lesson</span><strong>Never trust mystery nootropics gels</strong></div>
-</div>
-
 > “I thought I was showing up a little compromised. I did not expect to be in survival mode almost immediately.”
 
 

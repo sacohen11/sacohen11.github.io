@@ -4728,37 +4728,6 @@ body {
 		color: #717981;
 		margin: 0 0 1rem 0;
 	}
-
-	.story-stats {
-		display: grid;
-		grid-template-columns: repeat(2, minmax(0, 1fr));
-		gap: 0.9rem;
-		margin: 2rem 0 2rem 0;
-	}
-
-		.story-stats > div {
-			border: 1px solid rgba(144, 144, 144, 0.25);
-			padding: 1rem 1.1rem;
-			background: rgba(144, 144, 144, 0.04);
-		}
-
-		.story-stats span {
-			display: block;
-			font-family: "Source Sans Pro", Helvetica, sans-serif;
-			text-transform: uppercase;
-			letter-spacing: 0.14rem;
-			font-size: 0.72rem;
-			color: #717981;
-			margin-bottom: 0.45rem;
-		}
-
-		.story-stats strong {
-			display: block;
-			font-size: 1rem;
-			line-height: 1.5;
-			color: #212931;
-		}
-
 	.story-divider {
 		margin: 3rem 0 2rem 0;
 		border-top-color: rgba(144, 144, 144, 0.18);
@@ -4775,10 +4744,6 @@ body {
 	}
 
 	@media screen and (max-width: 736px) {
-		.story-stats {
-			grid-template-columns: 1fr;
-		}
-
 		.pull-quote {
 			font-size: 1.2rem;
 		}
