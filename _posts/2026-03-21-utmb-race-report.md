@@ -2,7 +2,7 @@
 layout: post
 title: "UTMB Race Report"
 description: "A messy buildup, a brutal opening stretch, and a strong finish in Chamonix."
-image: assets/images/pic06.jpg
+image: assets/images/posts/utmb/chamonix-start-crowd.jpg
 ---
 
 UTMB was the first race in a long time where I showed up with real doubt.
@@ -57,6 +57,9 @@ Thursday I went back to Chamonix to pick up my bib. That was my first real taste
 
 On race day I got into Chamonix around 1 p.m. for the 6 p.m. start, dropped my bag, got lunch, and tried to sneak in a short nap.
 
+![Start-line chaos building in Chamonix before the 6 p.m. start.]({{ "/assets/images/posts/utmb/chamonix-start-crowd.jpg" | relative_url }})
+*Chamonix before the gun: packed streets, mountains overhead, and absolutely no shortage of energy.*
+
 Will had warned me to get to the start line early because the field is massive. I got there around 4:30 and was already deeper in the crowd than I expected. About 30 minutes before the gun, I took an SIS nootropics gel.
 
 Then _Conquest of Paradise_ started playing, the whole start corral got goosebumps, and we were off.
@@ -64,6 +67,9 @@ Then _Conquest of Paradise_ started playing, the whole start corral got goosebum
 ## Race start
 
 The first few miles of UTMB are unlike anything else.
+
+![Waiting near the church with the field before things got really loud.]({{ "/assets/images/posts/utmb/start-near-church-selfie.jpg" | relative_url }})
+*Still smiling before the race started punching back.*
 
 Chamonix is packed shoulder-to-shoulder with people. Cowbells, screaming, total chaos. Even once you reach trail, there are runners everywhere. It is absurd in the best way.
 
@@ -111,6 +117,9 @@ By the time the sun came up and I was descending toward Courmayeur, I knew I nee
 
 I got into Courmayeur, found Will, sat down, and explained what had been happening.
 
+![Finally at Courmayeur with Coach Will after a very ugly first half.]({{ "/assets/images/posts/utmb/courmayeur-with-coach.jpg" | relative_url }})
+*Courmayeur: finally stopped, reset, and started to understand what had been wrecking my stomach.*
+
 He started going through the nutrition I had been carrying and asked which gels had been going down badly. Then he looked at the SIS nootropics packaging and basically said: _Wait, you have been taking these?_ The gel had around 200mg of caffeine plus a bunch of other ingredients I had not really paid attention to.
 
 Suddenly a lot of the summer started making more sense.
@@ -129,6 +138,9 @@ I climbed strongly up to Bertone, then moved across the ridge toward Bonatti and
 
 At Arnouvaz I regrouped again and then headed for the Gran Col Ferret, the hardest climb on the course, right in the heat of the day. I ended up climbing with Matt from Connecticut, which made the whole thing feel shorter.
 
+![A sweaty checkpoint selfie high on course near Gran Col Ferret.]({{ "/assets/images/posts/utmb/gran-col-ferret-selfie.jpg" | relative_url }})
+*Somewhere up high, still very much in it, and finally feeling like I could race again instead of just survive.*
+
 After that climb, the long runnable descent toward La Fouly and Champex-Lac was finally a chance to race a little. I ran almost all the runnable sections and passed 55 people on that stretch alone.
 
 I saw Will again at Champex-Lac and got ready for the final three climbs.
@@ -142,6 +154,14 @@ By that point a clear pattern had emerged:
 That is what kept me moving up through the second half.
 
 The climb out of Champex-Lac felt rough and underpowered, but I made up ground again on the downhill to Trient. I reached Trient just after dark, and the aid station was a complete party. Someone named Caroline came in around the same time, and they started blasting “Sweet Caroline” through the station. Very good moment.
+
+![Looking deeply cooked inside the Trient aid station.]({{ "/assets/images/posts/utmb/trient-aid-station.jpg" | relative_url }})
+*Trient, after dark. Not glamorous, but definitely honest.*
+
+<video controls preload="metadata" playsinline style="width: 100%; margin: 0 0 2rem 0; border-radius: 0.25rem;">
+  <source src="{{ '/assets/videos/utmb/trient-aid-video.mov' | relative_url }}" type="video/quicktime">
+  Your browser does not support the video tag.
+</video>
 
 Then came the brutal climb out of Trient, around 2,500 feet in a little over two miles. I tucked in behind an Israeli runner who was talking nonstop and just let his pace drag me upward.
 
@@ -162,6 +182,9 @@ Eventually I hit the bottom, passed the last runner I would overtake all night, 
 There were still people out cheering in the middle of the night.
 
 And then it was done.
+
+![At the finish arch after 33 hours, 36 minutes, and 57 seconds.]({{ "/assets/images/posts/utmb/finish-arch-night.jpg" | relative_url }})
+*Done. Not the race I imagined, but one I was proud to finish.*
 
 I finished UTMB in **33:36:57**.
 
@@ -198,6 +221,11 @@ European aid stations make it easy to sit, reset, and linger. Next time I race U
 ### 4. UTMB week is as good as advertised
 
 The vibe is incredible. The whole town being taken over by trail and ultra running is exactly as fun as it sounds.
+
+![One of the views that made the whole week feel ridiculous in the best possible way.]({{ "/assets/images/posts/utmb/chamonix-mountain-view-1.jpg" | relative_url }})
+
+![Singletrack with the Chamonix peaks looming in the background.]({{ "/assets/images/posts/utmb/chamonix-trail-view.jpg" | relative_url }})
+*Part of the reason UTMB week feels different: even standing around town or jogging easy, the setting is absurd.*
 
 If I do it again, I would probably stay in Chamonix the whole time just to make logistics easier.
 
